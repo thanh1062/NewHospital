@@ -10,4 +10,5 @@ package MODEL;
  */
 public class Model {
     private int ID;
+    private int nh;
 }
