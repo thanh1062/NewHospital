@@ -9,5 +9,5 @@ package MODEL;
  * @author yukth
  */
 public class Model {
-    
+    private int ID;
 }
