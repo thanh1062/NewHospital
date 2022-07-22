@@ -11,5 +11,7 @@ package MODEL;
 public class Model {
     private int ID;
     private int nh;
-    private int dfg;
+    private int df;
+    private int e;
+    private int q;
 }
